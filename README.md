@@ -15,7 +15,7 @@ Executive dashboard covering revenue, margin, orders, returns, regional performa
 
 **Skills:** Power BI, DAX, Power Query, data modeling, KPI reporting
 
-[Live dashboard](PASTE-LINK) | [Repository](https://github.com/Bailey7220/powerbi-sales-dashboard)
+[Live dashboard](<iframe title="Sales Performance Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWNhZmQwMDUtMmVkYy00MjAwLWFjYjYtZWFjZjYzZjZjMTZlIiwidCI6IjBjOTg0ZjRmLWQwN2MtNDA3Zi1hNGQ3LWRiZGE1ZDJjYTMxZiJ9&pageName=49852ab876de720ce76c" frameborder="0" allowFullScreen="true"></iframe>) | [Repository](https://github.com/Bailey7220/powerbi-sales-dashboard)
 
 *Built on synthetic retail-sales data for portfolio purposes. No real company, customer, or transaction data.*
 
