@@ -15,7 +15,7 @@ Executive dashboard covering revenue, margin, orders, returns, regional performa
 
 **Skills:** Power BI, DAX, Power Query, data modeling, KPI reporting
 
-[Live dashboard](PASTE-LINK) | [Repository](PASTE-LINK)
+[Live dashboard](PASTE-LINK) | [Repository](https://github.com/Bailey7220/powerbi-sales-dashboard)
 
 *Built on synthetic retail-sales data for portfolio purposes. No real company, customer, or transaction data.*
 
@@ -24,4 +24,4 @@ Enterprise-style IT lab for networking, virtualization, and security. Proxmox VM
 
 **Skills:** virtualization, networking, Active Directory, systems administration
 
-[Repository](PASTE-LINK)
+[Repository](https://github.com/Bailey7220/enterprise-homelab)
