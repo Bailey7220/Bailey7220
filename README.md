@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bailey Collins
 
-<!--
-**Bailey7220/Bailey7220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analyst — reporting, operations, and financial data.
+Two years reconciling and reporting on financial data across 11 business locations.
+Excel | Power BI | SQL | CompTIA Security+
 
-Here are some ideas to get you started:
+Edmond, OK | [LinkedIn](https://www.linkedin.com/in/baileycollins10/) | bailey@baileycollins.org
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### Power BI Sales Performance Dashboard
+Executive dashboard covering revenue, margin, orders, returns, regional performance, and channel mix. Star-schema model, DAX measures, drill-through and bookmark navigation, variance-to-target reporting.
+
+**Skills:** Power BI, DAX, Power Query, data modeling, KPI reporting
+
+[Live dashboard](PASTE-LINK) | [Repository](PASTE-LINK)
+
+*Built on synthetic retail-sales data for portfolio purposes. No real company, customer, or transaction data.*
+
+### Enterprise Homelab
+Enterprise-style IT lab for networking, virtualization, and security. Proxmox VMs on a Dell R630, Cisco managed switch with VLANs and ACLs on an isolated subnet, Windows Server 2022 and Ubuntu, Active Directory with group policy, account controls, and patch management.
+
+**Skills:** virtualization, networking, Active Directory, systems administration
+
+[Repository](PASTE-LINK)
