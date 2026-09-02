@@ -4,7 +4,7 @@ Analyst — reporting, operations, and financial data.
 Two years reconciling and reporting on financial data across 11 business locations.
 Excel | Power BI | SQL | CompTIA Security+
 
-Edmond, OK | [LinkedIn](https://www.linkedin.com/in/baileycollins10/) | bailey@baileycollins.org
+Edmond, OK | [LinkedIn](https://www.linkedin.com/in/baileycollins10/) | bailey-collins@outlook.com
 
 ---
 
