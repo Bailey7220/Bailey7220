@@ -24,7 +24,7 @@ SQL portfolio project analyzing synthetic multi-channel retail data across 44,29
 Built on synthetic retail-sales data for portfolio purposes. No real company, customer, or transaction data.
 
 
-### Power BI Sales Performance Dashboard
+### Sales Performance Dashboard | Power BI
 Executive dashboard covering revenue, margin, orders, returns, regional performance, and channel mix. Star-schema model, DAX measures, drill-through and bookmark navigation, variance-to-target reporting.
 
 **Skills:** Microsoft Power BI, Microsoft Power Query, DAX, Data Visualization, KPI Reporting, Data Modeling
@@ -34,7 +34,7 @@ Executive dashboard covering revenue, margin, orders, returns, regional performa
 *Built on synthetic retail-sales data for portfolio purposes. No real company, customer, or transaction data.*
 
 
-### Enterprise Homelab
+### Systems & Security Homelab
 Enterprise-style IT lab for networking, virtualization, and security. Proxmox VMs on a Dell R630, Cisco managed switch with VLANs and ACLs on an isolated subnet, Windows Server 2022 and Ubuntu, Active Directory with group policy, account controls, and patch management.
 
 **Skills:** Virtualization, Active Directory, Network Administration, Windows Server, VLAN
