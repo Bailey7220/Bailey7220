@@ -17,7 +17,7 @@ SQL portfolio project analyzing synthetic multi-channel retail data across 44,29
 
 **Highlights:** $25.91M net revenue | $6.61M gross profit | 25.50% gross margin | 14,671 orders analyzed
 
-**Skills:** SQL, SQLite, data analysis, data quality, data modeling, KPI reporting, business intelligence, GitHub
+**Skills:** SQL, Data Analysis, Data Modeling, KPI Reporting, Microsoft PowerBI, Microsoft Excel
 
 [Repository](https://github.com/Bailey7220/Retail-Sales-Profitability-Analysis-SQL)
 
@@ -27,7 +27,7 @@ Built on synthetic retail-sales data for portfolio purposes. No real company, cu
 ### Power BI Sales Performance Dashboard
 Executive dashboard covering revenue, margin, orders, returns, regional performance, and channel mix. Star-schema model, DAX measures, drill-through and bookmark navigation, variance-to-target reporting.
 
-**Skills:** Power BI, DAX, Power Query, data modeling, KPI reporting
+**Skills:** Microsoft Power BI, Microsoft Power Query, DAX, Data Visualization, KPI Reporting, Data Modeling
 
 [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNhZmQwMDUtMmVkYy00MjAwLWFjYjYtZWFjZjYzZjZjMTZlIiwidCI6IjBjOTg0ZjRmLWQwN2MtNDA3Zi1hNGQ3LWRiZGE1ZDJjYTMxZiJ9&pageName=49852ab876de720ce76c) | [Repository](https://github.com/Bailey7220/powerbi-sales-dashboard)
 
@@ -37,6 +37,6 @@ Executive dashboard covering revenue, margin, orders, returns, regional performa
 ### Enterprise Homelab
 Enterprise-style IT lab for networking, virtualization, and security. Proxmox VMs on a Dell R630, Cisco managed switch with VLANs and ACLs on an isolated subnet, Windows Server 2022 and Ubuntu, Active Directory with group policy, account controls, and patch management.
 
-**Skills:** virtualization, networking, Active Directory, systems administration
+**Skills:** Virtualization, Active Directory, Network Administration, Windows Server, VLAN
 
 [Repository](https://github.com/Bailey7220/enterprise-homelab)
