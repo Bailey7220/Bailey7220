@@ -21,7 +21,7 @@ SQL portfolio project analyzing synthetic multi-channel retail data across 44,29
 
 [Repository](https://github.com/Bailey7220/Retail-Sales-Profitability-Analysis-SQL)
 
-Built on synthetic retail-sales data for portfolio purposes. No real company, customer, or transaction data.
+*Built on synthetic retail-sales data for portfolio purposes. No real company, customer, or transaction data.*
 
 
 ### Sales Performance Dashboard | Power BI
